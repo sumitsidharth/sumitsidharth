@@ -57,7 +57,50 @@ Email Me 👉 ✉️ **sumitsidharth30@gmail.com** For Collaboration/Project or 
   </a>
 
   <br><br>
+  <br><br>
+## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 E-Learning Platform
+A web-based learning platform built to manage courses, students, and learning resources.
+
+🔗 [View Repository](https://github.com/sumitsidharth/E_learning)
+
+</td>
+
+<td width="50%">
+
+### 🔖 Bookmark Manager
+A web application for saving and managing useful bookmarks in an organized way.
+
+🔗 [View Repository](https://github.com/sumitsidharth/Bookmark)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Attendance Portal
+An attendance management system designed for students, teachers, and administrators.
+
+🔗 [View Repository](https://github.com/sumitsidharth/Attendence_portal)
+
+</td>
+
+<td width="50%">
+
+### 🧠 NEXUS – Institutional Automation
+An intelligent institutional automation project focused on improving and automating academic workflows.
+
+🔗 [View Repository](https://github.com/sumitsidharth/NEXUS-Intelligent-Institutional-Automation)
+
+</td>
+</tr>
+</table>
   <p>
     Built with 💙 by
     <a href="https://sumitsidharth.github.io/portfolio/">
