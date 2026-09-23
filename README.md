@@ -4,6 +4,8 @@ Building web applications with **Python & Django**, while strengthening my **C++
 
 Email Me 👉 ✉️ **sumitsidharth30@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+🌐 Visit My Portfolio: sumitsidharth.github.io/portfolio
+
 - 🔭 **I’m currently working on: Django/Python projects, DSA with C++, and building my software development portfolio.
 - 🌱 **I’m currently learning: Data Structures & Algorithms with C++, Django, Python, and Web Development
 - 👯 **I’m looking to collaborate on: Open-source projects, web development projects, and beginner-friendly hackathons
@@ -41,6 +43,6 @@ Email Me 👉 ✉️ **sumitsidharth30@gmail.com** For Collaboration/Project or 
 ![](https://github-contributor-stats.vercel.app/api?username=sumitsidharth&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sumitsidharth&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
