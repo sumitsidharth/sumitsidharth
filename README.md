@@ -4,7 +4,7 @@ Building web applications with **Python & Django**, while strengthening my **C++
 
 Email Me 👉 ✉️ **sumitsidharth30@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-🌐 Visit My Portfolio: sumitsidharth.github.io/portfolio
+
 
 - 🔭 **I’m currently working on: Django/Python projects, DSA with C++, and building my software development portfolio.
 - 🌱 **I’m currently learning: Data Structures & Algorithms with C++, Django, Python, and Web Development
@@ -33,16 +33,38 @@ Email Me 👉 ✉️ **sumitsidharth30@gmail.com** For Collaboration/Project or 
 ![](https://streak-stats.demolab.com/?user=sumitsidharth&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sumitsidharth&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sumitsidharth&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Achievements
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sumitsidharth&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Achievements" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sumitsidharth&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 💡 Developer Philosophy
 
----
+> “The complexity of software is an essential property, not an accidental one.”
+>
+> — Fred Brooks
 
+## 📊 Contribution Highlights
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sumitsidharth&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contribution Highlights" />
+</p>
+<div align="center">
+
+  <a href="https://sumitsidharth.github.io/portfolio/">
+    <img src="https://komarev.com/ghpvc/?username=sumitsidharth&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
+  </a>
+
+  <br><br>
+
+  <p>
+    Built with 💙 by
+    <a href="https://sumitsidharth.github.io/portfolio/">
+      <strong>Sumit Sidharth</strong>
+    </a>
+  </p>
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
